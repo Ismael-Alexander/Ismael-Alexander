@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ismael-Alexander
+- 👋 Hi, I’m @Ismael-Alexander - my main Git Repo: https://github.com/faycito
 - 👀 I’m interested in Machine Learning - Backend - Front-End (JS-iOS)
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on Machine Learning project
